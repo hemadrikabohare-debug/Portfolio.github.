@@ -137,9 +137,9 @@ My technical interests and experience include **Python, C++, SQL, Machine Learni
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** https://linkedin.com/in/hemadrikabohare
-* **GitHub:** https://github.com/hemadrikabohare-debug
+* **LinkedIn:** [https://linkedin.com/in/hemadrikabohare]
+* **GitHub:** [https://github.com/hemadrikabohare-debug]
 * **Email:** [hemadrikabohare@gmail.com](mailto:hemadrikabohare@gmail.com)
 
 ---
-
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.
