@@ -145,4 +145,3 @@ My technical interests and experience include **Python, C++, SQL, Machine Learni
 
 ---
 
-> **Resume:** This README presents the academic background, technical skills, projects, and experience listed in my resume.
